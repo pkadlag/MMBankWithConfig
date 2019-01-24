@@ -1,0 +1,10 @@
+#server.port=8080
+
+#spring.mvc.view.prefix=/WEB-INF/jsp/
+#spring.mvc.view.suffix=.jsp
+
+spring.application.name=MMBankWebsite
+spring.cloud.config.uri=http://localhost:8888
+
+#spring.application.name=helloWorld
+#spring.cloud.config.uri=http://localhost:8888

@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=C\:\\MMBankCloud\\AccountService\\.git;C\:\\MMBankCloud\\Website\\.git;C\:\\MMBankCloud\\TransactionService\\.git;
+GitRepositoriesView.GitDirectories.relative=AccountService\\.git;Website\\.git;TransactionService\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1

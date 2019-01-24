@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="eureka-server-mmbank"/>
+<aop-project name="AccountService"/>
+<aop-project name="Website"/>
+<aop-project name="config-server--mmbank"/>
+<aop-project name="TransactionService"/>
+</aop-reference-model>
